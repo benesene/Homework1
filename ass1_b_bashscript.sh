@@ -4,4 +4,4 @@ csvcut -c Dest flightdelay2007.csv |sort | uniq -c | sort -nr |awk 'BEGIN{print 
 
 csvlook top3dest.csv
 
-Esene Benjamin
+echo "Esene Benjamin"

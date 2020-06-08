@@ -4,4 +4,4 @@ csvcut -c Origin,ArrDelay flightdelay2007.csv | csvgrep -c Origin -m SFO| head -
 
 csvlook first3sfo.csv
 
-Esene Benjamin
+echo "Esene Benjamin"
